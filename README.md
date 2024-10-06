@@ -1,6 +1,6 @@
-### Hi there, I'm [Zakaria Bouzouf] 👋
+### Hi there, I'm [Zakaria Bouzouf](https://github.com/ZakariaBouzouf) 👋
 
-I'm a student in university Duisbug-essen  Germany,i'm passionate about Computer Science, Linux, and Web Development. I'm constantly learning new technologies and improving my skills to build better software.
+I'm a student in university Duisbug-Essen in Germany,i'm passionate about Computer Science, Linux, and Web Development. I'm constantly learning new technologies and improving my skills to build better software.
 
 🛠️ **Technologies & Tools:**
 - **Languages:** Java, JavaScript, Python, Haskell
@@ -26,32 +26,33 @@ I'm a student in university Duisbug-essen  Germany,i'm passionate about Computer
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)&nbsp;
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=black)&nbsp;
 
 #### ML/DL
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
 #### IDEs
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)&nbsp;
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
