@@ -4,9 +4,9 @@ I'm a student in university Duisbug-Essen in Germany,i'm passionate about Comput
 
 🛠️ **Technologies & Tools:**
 - **Languages:** Java, JavaScript, Python, Haskell
-- **Frameworks/Libraries:** React, Spring Boot, Next.js
+- **Frameworks/Libraries:** React, Spring Boot, Next.js, Flask
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Linux, NeoVim , IntelliJ
+- **Tools:** Jira, Git, Docker, Linux, NeoVim , IntelliJ
 
 💡 **I'm Open To:**
 - Collaborating on open-source projects related to web development, Linux, or backend systems.
@@ -35,6 +35,7 @@ I'm a student in university Duisbug-Essen in Germany,i'm passionate about Comput
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 #### Database
 
@@ -47,6 +48,7 @@ I'm a student in university Duisbug-Essen in Germany,i'm passionate about Comput
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
